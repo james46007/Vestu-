@@ -16,4 +16,4 @@
 
 # Razonamiento
 
-_Escribir aquí los supuestos asumidos, reflexiones y explicaciones de la solución_
+Primero cabe mensionar si toca vlidar con todos los espacios en la cadena que se ingrese, pero solo implemente si se cierra correctamente los terminos de parentesis, primero que se me ocurrio fue separarlo en dos array, el primer array para obtener la cadena y luego ir recorriendo ese array, el segundo array guardaba los parentesis para saber si el ultimo parantesis de apertura correspondia al parentesis de cierre mas proximo, creo que se puede factorizar pero es la forma mas rapida que se me ocurrio.

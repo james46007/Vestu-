@@ -23,3 +23,4 @@
 # Razonamiento
 
 _Escribir aquí los supuestos asumidos, reflexiones y explicaciones de la solución_
+Todavia no realizo la respuesta de esta pregunta, por falta de tiempo voy a subir y si encuentro un tiempo mas le intentare hacer este ejercicio
